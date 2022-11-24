@@ -5,11 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD:20221121Blank/Library/PackageManager/ProjectCache
-      ticks: 638048519633467983
-=======
-      ticks: 638046762230362890
->>>>>>> 50d0a187466c438ef9fa164904f8e7ed677d91f8:20221123_Kyungeun/Library/PackageManager/ProjectCache
+      ticks: 638048666164004516
     m_Hash: 2584840489
   m_LockFileStatus:
     m_FilePath: C:/Users/502/Documents/TheBlankRooms/20221123_Kyungeun/Packages/packages-lock.json
@@ -17,11 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD:20221121Blank/Library/PackageManager/ProjectCache
-      ticks: 638048519633467983
-=======
-      ticks: 638046762230362890
->>>>>>> 50d0a187466c438ef9fa164904f8e7ed677d91f8:20221123_Kyungeun/Library/PackageManager/ProjectCache
+      ticks: 638048666164014216
     m_Hash: 368091525
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}

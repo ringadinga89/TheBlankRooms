@@ -354,7 +354,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-<<<<<<< HEAD:20221121Blank/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp
 "Assets/Assets/#NVJOB Slender/Example/Environment/Scripts/SlenderExample.cs"
 "Assets/Assets/#NVJOB Slender/Example/Environment/Scripts/TDControl.cs"
 "Assets/Assets/#NVJOB Slender/Example/Environment/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs"
@@ -395,10 +394,8 @@
 "Assets/Assets/#NVJOB Slender/Example/Environment/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs"
 "Assets/Assets/#NVJOB Slender/Example/Environment/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs"
 "Assets/Assets/#NVJOB Slender/Example/Environment/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs"
-=======
 "Assets/Scripts/CHO/firstPersonCam.cs"
 "Assets/Scripts/CHO/WalkAndRun.cs"
->>>>>>> 50d0a187466c438ef9fa164904f8e7ed677d91f8:20221123_Kyungeun/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp
 "Assets/Scripts/player_move.cs"
 "Assets/Scripts/SlenderManAI.cs"
 -langversion:9.0
